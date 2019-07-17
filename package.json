@@ -11,7 +11,7 @@
   "author": "Robin Wieruch <opensource@rwieruch.com> (https://www.robinwieruch.de)",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^4.34.0",
+    "webpack": "4.35.3",
     "webpack-cli": "^3.3.4",
     "webpack-dev-server": "^3.7.2"
   }
