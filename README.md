@@ -1,6 +1,6 @@
 # minimal-webpack-setup
 
-[![Build Status](https://travis-ci.org/rwieruch/minimal-webpack-setup.svg?branch=master)](https://travis-ci.org/rwieruch/minimal-webpack-setup) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/minimal-webpack-setup.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/rwieruch/minimal-webpack-setup.svg?branch=master)](https://travis-ci.org/rwieruch/minimal-webpack-setup)   [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/minimal-webpack-setup.svg)](https://greenkeeper.io/)
 
 Minimal project setup for a JavaScript project running with Webpack. [Read more about it.](https://www.robinwieruch.de/webpack-setup-tutorial/)
 
